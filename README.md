@@ -1,2 +1,1 @@
-# FrentaMA
-Frente
+# Communication device prototype
